@@ -1,0 +1,15 @@
+{
+  "Components": {
+    "or": "Ou"
+  },
+  "Signin": {
+    "title": "Se connecter",
+    "emailLabel": "Email",
+    "emailPlaceholder": "jhon-doe@mail.com",
+    "button": {
+      "github": "Se connecter avec Github",
+      "google": "Se connecter avec Google",
+      "email": "Se connecter avec un Email"
+    }
+  }
+}
