@@ -5,7 +5,12 @@ const withNextIntl = createNextIntlPlugin()
 
 const nextConfig: NextConfig = {
   images: {
-    domains: ["avatars.githubusercontent.com"],
+    domains: [
+      "avatars.githubusercontent.com",
+      "eu.ui-avatars.com",
+      "avatars.dicebear.com",
+      `${process.env.AWS_BUCKET}.s3.eu-west-3.amazonaws.com`,
+    ],
   },
 }
 

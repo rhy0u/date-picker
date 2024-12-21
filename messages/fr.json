@@ -11,5 +11,20 @@
       "google": "Se connecter avec Google",
       "email": "Se connecter avec un Email"
     }
+  },
+  "Profile": {
+    "title": "Profile",
+    "form": {
+      "name": {
+        "label": "Nom"
+      },
+      "image": {
+        "label": "image de profile"
+      }
+    },
+    "submit": "Sauvegarder"
+  },
+  "Signout": {
+    "button": "Sign out"
   }
 }

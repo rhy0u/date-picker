@@ -12,7 +12,19 @@
       "email": "connect with an Email"
     }
   },
-  "HomePage": {
-    "signout": "Sign out"
+  "Profile": {
+    "title": "Profile",
+    "form": {
+      "name": {
+        "label": " Name"
+      },
+      "image": {
+        "label": "profile picture"
+      }
+    },
+    "submit": "Save"
+  },
+  "Signout": {
+    "button": "Sign out"
   }
 }

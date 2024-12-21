@@ -1,5 +1,5 @@
 import { auth, signIn } from "@/auth"
-import { EmailForm } from "@/components/auth/LoginForm"
+import { EmailForm } from "@/components/LoginForm"
 import { Separator } from "@/components/Or"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardTitle } from "@/components/ui/card"
